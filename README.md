@@ -15,8 +15,8 @@
 
 👤 **Dash Santosh**
 
-- Website: https://dashsantosh.me
-- Github: [@santdas36](https://github.com/santdas36)
+- Website: 
+- Github: [@Kritagya-web](https://github.com/Kritagya-web)
 
 ## Show your support
 
