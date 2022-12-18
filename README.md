@@ -13,9 +13,10 @@
 
 ## Author
 
-👤 **Dash Santosh**
+👤 **Kritagya Kumra**
 
-- Website: 
+- Website(HTML,CSS,JS): https://kritagya-web.github.io/Portfolio/
+- Website(React): 
 - Github: [@Kritagya-web](https://github.com/Kritagya-web)
 
 ## Show your support
