@@ -1,4 +1,4 @@
-# Airbnb-ish 👋
+# Airbnb-Clone 👋
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
@@ -22,9 +22,7 @@
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-<p>
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/santdas36" />
-</p>
+
 <br /><br />
 
 ## Getting Started
