@@ -1,4 +1,4 @@
-# [A NextJS Airbnb-Clone] &middot; [![Author Kritagya](https://img.shields.io/badge/Author-Kritagya-%3C%3E)](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
+# A NextJS Airbnb-Clone &middot; [![Author Kritagya](https://img.shields.io/badge/Author-Kritagya-%3C%3E)](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
 
 Check the deploy [`preview`]
 
