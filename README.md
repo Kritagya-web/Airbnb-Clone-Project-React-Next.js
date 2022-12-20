@@ -2,7 +2,7 @@
 
 Check the deploy [`preview`]
 
-![GIF](https://github.com/Kritagya-web/Airbnb-Clone-Project-React-Next.js/blob/main/Airbnb_Demo/Airbnb-Clone.mp4)
+![GIF](https://github.com/Kritagya-web/Airbnb-Clone-Project-React-Next.js/blob/main/public/gif/airbnb.gif)
 
 ## `Project purpose`
 - Practice NextJS Server Side Rendering - SSR
