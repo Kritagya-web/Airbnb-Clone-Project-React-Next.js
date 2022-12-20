@@ -1,8 +1,8 @@
 # A NextJS airbnb
 
-Check the deploy [`preview`](https://airbnb-nextjs-nu.vercel.app/)
+Check the deploy [`preview`]
 
-![GIF](https://github.com/Wtheodoro/airbnb-nextjs/blob/main/public/gif/airbnb.gif)
+![GIF](https://github.com/Kritagya-web/Airbnb-Clone-Project-React-Next.js/blob/main/Airbnb_Demo/Airbnb-Clone.mp4)
 
 ## `Project purpose`
 - Practice NextJS Server Side Rendering - SSR
@@ -22,7 +22,7 @@ Check the deploy [`preview`](https://airbnb-nextjs-nu.vercel.app/)
 ### `clone`
 You can clone by using git clone on your terminal:
 
-    git clone https://github.com/Wtheodoro/airbnb-nextj
+    git clone https://github.com/Kritagya-web/Airbnb-Clone-Project-React-Next.js.git
 
 You can clone by click on the GitHub green button "CODE" and download the .zip
 
