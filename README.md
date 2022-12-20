@@ -1,38 +1,39 @@
-# Airbnb-Clone 👋
+# A NextJS airbnb
 
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+Check the deploy [`preview`](https://airbnb-nextjs-nu.vercel.app/)
 
-> Airbnb UI clone using Next.js + styled-components. (Todo: Search functionality and Mapbox integration)
+![GIF](https://github.com/Wtheodoro/airbnb-nextjs/blob/main/public/gif/airbnb.gif)
 
-### ✨ [Live Demo](https://airbnb-ish.vercel.app)
+## `Project purpose`
+- Practice NextJS Server Side Rendering - SSR
+- Practice Static Site Generation - SSG
+- Practice Tailwind
+- Practice Clean Code fundamentals
+- Experiment Increment Static Generation 
+- Experiment how Built-in Image and Automatic Image Optimization works
+## `Built with`
+- React
+- NextJS
+- TailwindCSS
+- Mapbox
 
-## Author
+## `Step by step to run this project`
 
-👤 **Kritagya Kumra**
+### `clone`
+You can clone by using git clone on your terminal:
 
-- Website(HTML,CSS,JS): https://kritagya-web.github.io/Portfolio/
-- Website(React): 
-- Github: [@Kritagya-web](https://github.com/Kritagya-web)
+    git clone https://github.com/Wtheodoro/airbnb-nextj
 
-## Show your support
+You can clone by click on the GitHub green button "CODE" and download the .zip
 
-Give a ⭐️ if this project helped you!
+### `npm install`
+This project depends on some dependencies, so the command **npm install** takes care of installing all of them
 
-<br /><br />
+    npm install
 
-## Getting Started
 
-First, run the development server:
+### `npm start`
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    npm run dev
